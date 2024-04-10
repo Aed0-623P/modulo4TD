@@ -1,0 +1,10 @@
+Error al procesar la línea: {"nombre": "Marj", "apellido": "Impy", email": "mimpy5@youku.com", "genero": "Non-binary"}
+
+Tipo de error: JSONDecodeError
+Descripción del error: Expecting property name enclosed in double quotes: line 1 column 40 (char 39)
+==================================================
+Error al procesar la línea: {"nombre": "Robena", "apellido": "Selcraig", "email": "rselcraig7@jugem.jp", "genero": Female}
+
+Tipo de error: JSONDecodeError
+Descripción del error: Expecting value: line 1 column 88 (char 87)
+==================================================

@@ -1,0 +1,4 @@
+{"nombre":"Laptop Gamer","precio":12000}
+{"nombre":"Laptop Gamer","precio":12000}
+{"nombre":"Laptop Gamer","precio":12000}
+{"nombre":"Laptop Gamer","precio":12000}
